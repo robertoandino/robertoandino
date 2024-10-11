@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">An aspiring software developer</h3>
 
-- 🌱 I’m currently learning **web development at Bloomtech**
+- 🌱 I’m currently working on personal projects
 
 - 📫 How to reach me **andinorobert518@yahoo.com**
 
